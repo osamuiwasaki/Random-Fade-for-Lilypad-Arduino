@@ -1,12 +1,3 @@
-This is my random fading code.
-You should install MsTimer2 library before use this code.
-Enjoy!
-
---
-Osamu Iwasaki
-http://twitter.com/osamu_iwasaki
-
-
 
 // Fade all IO by Osamu Iwasaki
 // November 10, 2010
